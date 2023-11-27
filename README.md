@@ -22,7 +22,7 @@
 
 <h2>
   
-| 🔧 Tech Stack |
+| Skills |
 | -- |
   
 </h2>
