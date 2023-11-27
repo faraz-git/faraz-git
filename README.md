@@ -22,7 +22,7 @@
 
 <h2>
   
-| 🔧 &nbsp; Tech Stack |
+| 🔧 Tech Stack |
 | -- |
   
 </h2>
