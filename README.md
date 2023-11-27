@@ -1,4 +1,4 @@
-### Hi there I'm **Mohammad Javad** 👋
+### Hi I'm **Mohammad Javad** 👋
 ---
 | Frontend Developer |
 | -- |
