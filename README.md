@@ -1,5 +1,18 @@
 <h2> Hi I'm <bold>Mohammad Javad</bold> 👋</h2>
 
+``` js
+const information = {
+    status: 200,
+    data: {
+        name: "Mohammad Javad",
+        skils: "js, react, next, typescript",
+        city: "Esfahan",
+        birthDay: "01 January 1994"
+    }
+}
+
+```
+
 <h2>
 
 | Frontend Developer |
