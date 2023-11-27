@@ -10,6 +10,12 @@
   - Redux
   - Next Js
   - Ts
+ 
+| Frontend Developer |
+| -- |
+
+| Html | Css | FlexBox | Js | Bootstrap | React Js | Redux | Next Js | Ts | 
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 
 ## My Projects Languages
