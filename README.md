@@ -5,7 +5,7 @@ const information = {
     status: 200,
     data: {
         name: "Mohammad Javad",
-        skils: "js, react, next, typescript",
+        skills: "js, react, next, typescript",
         city: "Esfahan",
         birthDay: "01 January 1994"
     }
